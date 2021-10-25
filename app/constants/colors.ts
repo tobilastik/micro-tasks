@@ -1,0 +1,9 @@
+export const whitesmoke = 'whitesmoke';
+export const white = 'white';
+export const lightgray = 'lightgray';
+export const gray = 'gray';
+export const blue = '#4977e3'
+export const deepgreen = '#33bfac'
+export const green = '#a9dee0'
+export const lightgreen = '#cde7f3'
+export const red = '#fe467c'
